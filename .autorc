@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Fiyanshugamer",
+  "repo": "container-munarhu",
+  "name": "Fiyanshugamer",
+  "email": "Fiyanshusingh871@gmail.com",
+}
