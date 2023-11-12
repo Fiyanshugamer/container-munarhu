@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Nov 12 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@Fiyanshugamer](https://github.com/Fiyanshugamer))
+
+#### Authors: 1
+
+- [@Fiyanshugamer](https://github.com/Fiyanshugamer)
+
+---
+
 # v0.0.1 (Tue Oct 31 2023)
 
 :tada: This release contains work from a new contributor! :tada:
